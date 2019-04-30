@@ -1,0 +1,10 @@
+.oscuro{
+	background-color:black;
+	color:white;
+}
+
+.cuerpo{
+	display:inline-block;
+	width:100%;
+	height:1000px;
+}
